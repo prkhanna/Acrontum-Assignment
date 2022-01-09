@@ -1,0 +1,13 @@
+{
+        "baseUrl": "https://demoqa.com",
+        "viewportHeight": 1024,
+        "viewportWidth": 1500,
+        "video": false,
+        "reporter": "cypress-mochawesome-reporter",
+        "reporterOptions": {
+                "reportDir": "cypress/report",
+                "charts": true,
+                "reportPageTitle": "Acrontum",
+                "embeddedScreenshots": true
+        }
+}
